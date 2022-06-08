@@ -10,6 +10,11 @@
       "StackName": "amplify-fluttertodos-dev-232912",
       "StackId": "arn:aws:cloudformation:eu-west-1:774017073146:stack/amplify-fluttertodos-dev-232912/e0d82a80-e6a8-11ec-ad6c-02693cb9aa53",
       "AmplifyAppId": "d3ivoj3fpar2rp"
+    },
+    "categories": {
+      "auth": {
+        "fluttertodos4675cc3f": {}
+      }
     }
   }
 }

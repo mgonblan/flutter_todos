@@ -71,6 +71,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.5.1"
+  amplify_authenticator:
+    dependency: "direct main"
+    description:
+      name: amplify_authenticator
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.2"
   amplify_core:
     dependency: transitive
     description:

@@ -9,7 +9,9 @@ environment:
 dependencies:
   amplify_analytics_pinpoint: ^0.5.1
   amplify_auth_cognito: ^0.5.1
+  amplify_authenticator: ^0.1.2
   amplify_flutter: ^0.5.1
+  
   bloc: ^8.0.1
   flutter:
     sdk: flutter
